@@ -1,0 +1,379 @@
+"CVEMET","zona_met","nombre_corto","ent","CVEMUN","CVEENT"
+1,"Aguascalientes","Aguascalientes","Aguascalientes",1001,1
+1,"Aguascalientes","Aguascalientes","Aguascalientes",1005,1
+1,"Aguascalientes","Aguascalientes","Aguascalientes",1011,1
+2,"Tijuana","Tijuana","Baja California",2003,2
+2,"Tijuana","Tijuana","Baja California",2004,2
+2,"Tijuana","Tijuana","Baja California",2005,2
+3,"Mexicali","Mexicali","Baja California",2002,2
+4,"La Laguna","La Laguna","Coahuila",5017,5
+4,"La Laguna","La Laguna","Coahuila",5035,5
+4,"La Laguna","La Laguna","Durango",10007,10
+4,"La Laguna","La Laguna","Durango",10012,10
+5,"Saltillo","Saltillo","Coahuila",5004,5
+5,"Saltillo","Saltillo","Coahuila",5027,5
+5,"Saltillo","Saltillo","Coahuila",5030,5
+6,"Monclova-Frontera","Monclova","Coahuila",5006,5
+6,"Monclova-Frontera","Monclova","Coahuila",5010,5
+6,"Monclova-Frontera","Monclova","Coahuila",5018,5
+7,"Piedras Negras","Piedras Negras","Coahuila",5022,5
+7,"Piedras Negras","Piedras Negras","Coahuila",5025,5
+8,"Colima-Villa de Álvarez","Colima","Colima",6002,6
+8,"Colima-Villa de Álvarez","Colima","Colima",6003,6
+8,"Colima-Villa de Álvarez","Colima","Colima",6004,6
+8,"Colima-Villa de Álvarez","Colima","Colima",6005,6
+8,"Colima-Villa de Álvarez","Colima","Colima",6010,6
+9,"Tecomán","Tecomán","Colima",6001,6
+9,"Tecomán","Tecomán","Colima",6009,6
+10,"Tuxtla Gutiérrez","Tuxtla","Chiapas",7012,7
+10,"Tuxtla Gutiérrez","Tuxtla","Chiapas",7027,7
+10,"Tuxtla Gutiérrez","Tuxtla","Chiapas",7101,7
+11,"Juárez","Juárez","Chihuahua",8037,8
+12,"Chihuahua","Chihuahua","Chihuahua",8002,8
+12,"Chihuahua","Chihuahua","Chihuahua",8004,8
+12,"Chihuahua","Chihuahua","Chihuahua",8019,8
+13,"Valle de México","ZMVM","Ciudad de México",9002,9
+13,"Valle de México","ZMVM","Ciudad de México",9003,9
+13,"Valle de México","ZMVM","Ciudad de México",9004,9
+13,"Valle de México","ZMVM","Ciudad de México",9005,9
+13,"Valle de México","ZMVM","Ciudad de México",9006,9
+13,"Valle de México","ZMVM","Ciudad de México",9007,9
+13,"Valle de México","ZMVM","Ciudad de México",9008,9
+13,"Valle de México","ZMVM","Ciudad de México",9009,9
+13,"Valle de México","ZMVM","Ciudad de México",9010,9
+13,"Valle de México","ZMVM","Ciudad de México",9011,9
+13,"Valle de México","ZMVM","Ciudad de México",9012,9
+13,"Valle de México","ZMVM","Ciudad de México",9013,9
+13,"Valle de México","ZMVM","Ciudad de México",9014,9
+13,"Valle de México","ZMVM","Ciudad de México",9015,9
+13,"Valle de México","ZMVM","Ciudad de México",9016,9
+13,"Valle de México","ZMVM","Ciudad de México",9017,9
+13,"Valle de México","ZMVM","Hidalgo",13069,13
+13,"Valle de México","ZMVM","México",15002,15
+13,"Valle de México","ZMVM","México",15009,15
+13,"Valle de México","ZMVM","México",15010,15
+13,"Valle de México","ZMVM","México",15011,15
+13,"Valle de México","ZMVM","México",15013,15
+13,"Valle de México","ZMVM","México",15015,15
+13,"Valle de México","ZMVM","México",15016,15
+13,"Valle de México","ZMVM","México",15017,15
+13,"Valle de México","ZMVM","México",15020,15
+13,"Valle de México","ZMVM","México",15022,15
+13,"Valle de México","ZMVM","México",15023,15
+13,"Valle de México","ZMVM","México",15024,15
+13,"Valle de México","ZMVM","México",15025,15
+13,"Valle de México","ZMVM","México",15028,15
+13,"Valle de México","ZMVM","México",15029,15
+13,"Valle de México","ZMVM","México",15030,15
+13,"Valle de México","ZMVM","México",15031,15
+13,"Valle de México","ZMVM","México",15033,15
+13,"Valle de México","ZMVM","México",15034,15
+13,"Valle de México","ZMVM","México",15035,15
+13,"Valle de México","ZMVM","México",15036,15
+13,"Valle de México","ZMVM","México",15037,15
+13,"Valle de México","ZMVM","México",15038,15
+13,"Valle de México","ZMVM","México",15039,15
+13,"Valle de México","ZMVM","México",15044,15
+13,"Valle de México","ZMVM","México",15046,15
+13,"Valle de México","ZMVM","México",15050,15
+13,"Valle de México","ZMVM","México",15053,15
+13,"Valle de México","ZMVM","México",15057,15
+13,"Valle de México","ZMVM","México",15058,15
+13,"Valle de México","ZMVM","México",15059,15
+13,"Valle de México","ZMVM","México",15060,15
+13,"Valle de México","ZMVM","México",15061,15
+13,"Valle de México","ZMVM","México",15065,15
+13,"Valle de México","ZMVM","México",15068,15
+13,"Valle de México","ZMVM","México",15069,15
+13,"Valle de México","ZMVM","México",15070,15
+13,"Valle de México","ZMVM","México",15075,15
+13,"Valle de México","ZMVM","México",15081,15
+13,"Valle de México","ZMVM","México",15083,15
+13,"Valle de México","ZMVM","México",15084,15
+13,"Valle de México","ZMVM","México",15089,15
+13,"Valle de México","ZMVM","México",15091,15
+13,"Valle de México","ZMVM","México",15092,15
+13,"Valle de México","ZMVM","México",15093,15
+13,"Valle de México","ZMVM","México",15094,15
+13,"Valle de México","ZMVM","México",15095,15
+13,"Valle de México","ZMVM","México",15096,15
+13,"Valle de México","ZMVM","México",15099,15
+13,"Valle de México","ZMVM","México",15100,15
+13,"Valle de México","ZMVM","México",15103,15
+13,"Valle de México","ZMVM","México",15104,15
+13,"Valle de México","ZMVM","México",15108,15
+13,"Valle de México","ZMVM","México",15109,15
+13,"Valle de México","ZMVM","México",15112,15
+13,"Valle de México","ZMVM","México",15120,15
+13,"Valle de México","ZMVM","México",15121,15
+13,"Valle de México","ZMVM","México",15122,15
+13,"Valle de México","ZMVM","México",15125,15
+14,"León","León","Guanajuato",11020,11
+14,"León","León","Guanajuato",11037,11
+15,"San Francisco del Rincón","San Francisco","Guanajuato",11025,11
+15,"San Francisco del Rincón","San Francisco","Guanajuato",11031,11
+16,"Acapulco","Acapulco","Guerrero",12001,12
+16,"Acapulco","Acapulco","Guerrero",12021,12
+17,"Pachuca","Pachuca","Hidalgo",13022,13
+17,"Pachuca","Pachuca","Hidalgo",13039,13
+17,"Pachuca","Pachuca","Hidalgo",13048,13
+17,"Pachuca","Pachuca","Hidalgo",13051,13
+17,"Pachuca","Pachuca","Hidalgo",13052,13
+17,"Pachuca","Pachuca","Hidalgo",13082,13
+17,"Pachuca","Pachuca","Hidalgo",13083,13
+18,"Tulancingo","Tulancingo","Hidalgo",13016,13
+18,"Tulancingo","Tulancingo","Hidalgo",13056,13
+18,"Tulancingo","Tulancingo","Hidalgo",13077,13
+19,"Tula","Tula","Hidalgo",13010,13
+19,"Tula","Tula","Hidalgo",13013,13
+19,"Tula","Tula","Hidalgo",13070,13
+19,"Tula","Tula","Hidalgo",13074,13
+19,"Tula","Tula","Hidalgo",13076,13
+20,"Guadalajara","Guadalajara","Jalisco",14039,14
+20,"Guadalajara","Guadalajara","Jalisco",14044,14
+20,"Guadalajara","Guadalajara","Jalisco",14051,14
+20,"Guadalajara","Guadalajara","Jalisco",14070,14
+20,"Guadalajara","Guadalajara","Jalisco",14097,14
+20,"Guadalajara","Guadalajara","Jalisco",14098,14
+20,"Guadalajara","Guadalajara","Jalisco",14101,14
+20,"Guadalajara","Guadalajara","Jalisco",14120,14
+21,"Puerto Vallarta","Puerto Vallarta","Jalisco",14067,14
+21,"Puerto Vallarta","Puerto Vallarta","Nayarit",18020,18
+22,"Ocotlán","Ocotlán","Jalisco",14063,14
+22,"Ocotlán","Ocotlán","Jalisco",14066,14
+23,"Toluca","Toluca","México",15005,15
+23,"Toluca","Toluca","México",15018,15
+23,"Toluca","Toluca","México",15027,15
+23,"Toluca","Toluca","México",15051,15
+23,"Toluca","Toluca","México",15054,15
+23,"Toluca","Toluca","México",15055,15
+23,"Toluca","Toluca","México",15062,15
+23,"Toluca","Toluca","México",15067,15
+23,"Toluca","Toluca","México",15072,15
+23,"Toluca","Toluca","México",15073,15
+23,"Toluca","Toluca","México",15076,15
+23,"Toluca","Toluca","México",15087,15
+23,"Toluca","Toluca","México",15106,15
+23,"Toluca","Toluca","México",15115,15
+23,"Toluca","Toluca","México",15118,15
+24,"Morelia","Morelia","Michoacán",16022,16
+24,"Morelia","Morelia","Michoacán",16053,16
+24,"Morelia","Morelia","Michoacán",16088,16
+25,"Zamora-Jacona","Zamora","Michoacán",16043,16
+25,"Zamora-Jacona","Zamora","Michoacán",16108,16
+26,"La Piedad-Pénjamo","Pénjamo","Guanajuato",11023,11
+26,"La Piedad-Pénjamo","Pénjamo","Michoacán",16069,16
+27,"Cuernavaca","Cuernavaca","Morelos",17007,17
+27,"Cuernavaca","Cuernavaca","Morelos",17008,17
+27,"Cuernavaca","Cuernavaca","Morelos",17009,17
+27,"Cuernavaca","Cuernavaca","Morelos",17011,17
+27,"Cuernavaca","Cuernavaca","Morelos",17018,17
+27,"Cuernavaca","Cuernavaca","Morelos",17020,17
+27,"Cuernavaca","Cuernavaca","Morelos",17024,17
+27,"Cuernavaca","Cuernavaca","Morelos",17028,17
+28,"Cuautla","Cuautla","Morelos",17002,17
+28,"Cuautla","Cuautla","Morelos",17004,17
+28,"Cuautla","Cuautla","Morelos",17006,17
+28,"Cuautla","Cuautla","Morelos",17026,17
+28,"Cuautla","Cuautla","Morelos",17029,17
+28,"Cuautla","Cuautla","Morelos",17030,17
+29,"Tepic","Tepic","Nayarit",18008,18
+29,"Tepic","Tepic","Nayarit",18017,18
+30,"Monterrey","Monterrey","Nuevo León",19006,19
+30,"Monterrey","Monterrey","Nuevo León",19009,19
+30,"Monterrey","Monterrey","Nuevo León",19010,19
+30,"Monterrey","Monterrey","Nuevo León",19018,19
+30,"Monterrey","Monterrey","Nuevo León",19019,19
+30,"Monterrey","Monterrey","Nuevo León",19021,19
+30,"Monterrey","Monterrey","Nuevo León",19026,19
+30,"Monterrey","Monterrey","Nuevo León",19031,19
+30,"Monterrey","Monterrey","Nuevo León",19039,19
+30,"Monterrey","Monterrey","Nuevo León",19045,19
+30,"Monterrey","Monterrey","Nuevo León",19046,19
+30,"Monterrey","Monterrey","Nuevo León",19048,19
+30,"Monterrey","Monterrey","Nuevo León",19049,19
+31,"Oaxaca","Oaxaca","Oaxaca",20067,20
+31,"Oaxaca","Oaxaca","Oaxaca",20083,20
+31,"Oaxaca","Oaxaca","Oaxaca",20087,20
+31,"Oaxaca","Oaxaca","Oaxaca",20091,20
+31,"Oaxaca","Oaxaca","Oaxaca",20107,20
+31,"Oaxaca","Oaxaca","Oaxaca",20115,20
+31,"Oaxaca","Oaxaca","Oaxaca",20157,20
+31,"Oaxaca","Oaxaca","Oaxaca",20174,20
+31,"Oaxaca","Oaxaca","Oaxaca",20227,20
+31,"Oaxaca","Oaxaca","Oaxaca",20293,20
+31,"Oaxaca","Oaxaca","Oaxaca",20338,20
+31,"Oaxaca","Oaxaca","Oaxaca",20350,20
+31,"Oaxaca","Oaxaca","Oaxaca",20375,20
+31,"Oaxaca","Oaxaca","Oaxaca",20385,20
+31,"Oaxaca","Oaxaca","Oaxaca",20390,20
+31,"Oaxaca","Oaxaca","Oaxaca",20399,20
+31,"Oaxaca","Oaxaca","Oaxaca",20403,20
+31,"Oaxaca","Oaxaca","Oaxaca",20409,20
+31,"Oaxaca","Oaxaca","Oaxaca",20519,20
+31,"Oaxaca","Oaxaca","Oaxaca",20539,20
+31,"Oaxaca","Oaxaca","Oaxaca",20553,20
+31,"Oaxaca","Oaxaca","Oaxaca",20565,20
+32,"Tehuantepec-Salina Cruz","Tehuantepec","Oaxaca",20079,20
+32,"Tehuantepec-Salina Cruz","Tehuantepec","Oaxaca",20124,20
+32,"Tehuantepec-Salina Cruz","Tehuantepec","Oaxaca",20515,20
+33,"Puebla-Tlaxcala","Puebla","Puebla",21001,21
+33,"Puebla-Tlaxcala","Puebla","Puebla",21015,21
+33,"Puebla-Tlaxcala","Puebla","Puebla",21034,21
+33,"Puebla-Tlaxcala","Puebla","Puebla",21041,21
+33,"Puebla-Tlaxcala","Puebla","Puebla",21048,21
+33,"Puebla-Tlaxcala","Puebla","Puebla",21060,21
+33,"Puebla-Tlaxcala","Puebla","Puebla",21074,21
+33,"Puebla-Tlaxcala","Puebla","Puebla",21090,21
+33,"Puebla-Tlaxcala","Puebla","Puebla",21106,21
+33,"Puebla-Tlaxcala","Puebla","Puebla",21114,21
+33,"Puebla-Tlaxcala","Puebla","Puebla",21119,21
+33,"Puebla-Tlaxcala","Puebla","Puebla",21122,21
+33,"Puebla-Tlaxcala","Puebla","Puebla",21125,21
+33,"Puebla-Tlaxcala","Puebla","Puebla",21132,21
+33,"Puebla-Tlaxcala","Puebla","Puebla",21136,21
+33,"Puebla-Tlaxcala","Puebla","Puebla",21140,21
+33,"Puebla-Tlaxcala","Puebla","Puebla",21143,21
+33,"Puebla-Tlaxcala","Puebla","Puebla",21163,21
+33,"Puebla-Tlaxcala","Puebla","Puebla",21181,21
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29015,29
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29017,29
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29019,29
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29022,29
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29023,29
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29025,29
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29027,29
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29028,29
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29029,29
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29032,29
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29041,29
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29042,29
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29044,29
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29051,29
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29053,29
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29054,29
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29056,29
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29057,29
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29058,29
+33,"Puebla-Tlaxcala","Puebla","Tlaxcala",29059,29
+34,"Tehuacán","Tehuacán","Puebla",21149,21
+34,"Tehuacán","Tehuacán","Puebla",21156,21
+35,"Querétaro","Querétaro","Querétaro",22006,22
+35,"Querétaro","Querétaro","Querétaro",22008,22
+35,"Querétaro","Querétaro","Querétaro",22011,22
+35,"Querétaro","Querétaro","Querétaro",22014,22
+36,"Cancún","Cancún","Quintana Roo",23003,23
+36,"Cancún","Cancún","Quintana Roo",23005,23
+37,"San Luis Potosí-Soledad","San Luis","San Luis Potosí",24028,24
+37,"San Luis Potosí-Soledad","San Luis","San Luis Potosí",24035,24
+38,"Rioverde-Ciudad Fernández","Cd. Fernández","San Luis Potosí",24011,24
+38,"Rioverde-Ciudad Fernández","Cd. Fernández","San Luis Potosí",24024,24
+39,"Guaymas","Guaymas","Sonora",26025,26
+39,"Guaymas","Guaymas","Sonora",26029,26
+40,"Villahermosa","Villahermosa","Tabasco",27004,27
+40,"Villahermosa","Villahermosa","Tabasco",27013,27
+41,"Tampico-Pánuco","Tampico","Tamaulipas",28003,28
+41,"Tampico-Pánuco","Tampico","Tamaulipas",28009,28
+41,"Tampico-Pánuco","Tampico","Tamaulipas",28038,28
+41,"Tampico-Pánuco","Tampico","Veracruz",30123,30
+41,"Tampico-Pánuco","Tampico","Veracruz",30133,30
+42,"Reynosa-Río Bravo","Reynosa","Tamaulipas",28032,28
+42,"Reynosa-Río Bravo","Reynosa","Tamaulipas",28033,28
+43,"Matamoros","Matamoros","Tamaulipas",28022,28
+44,"Nuevo Laredo","Nuevo Laredo","Tamaulipas",28027,28
+45,"Tlaxcala-Apizaco","Tlaxcala","Tlaxcala",29001,29
+45,"Tlaxcala-Apizaco","Tlaxcala","Tlaxcala",29002,29
+45,"Tlaxcala-Apizaco","Tlaxcala","Tlaxcala",29005,29
+45,"Tlaxcala-Apizaco","Tlaxcala","Tlaxcala",29009,29
+45,"Tlaxcala-Apizaco","Tlaxcala","Tlaxcala",29010,29
+45,"Tlaxcala-Apizaco","Tlaxcala","Tlaxcala",29018,29
+45,"Tlaxcala-Apizaco","Tlaxcala","Tlaxcala",29024,29
+45,"Tlaxcala-Apizaco","Tlaxcala","Tlaxcala",29026,29
+45,"Tlaxcala-Apizaco","Tlaxcala","Tlaxcala",29031,29
+45,"Tlaxcala-Apizaco","Tlaxcala","Tlaxcala",29033,29
+45,"Tlaxcala-Apizaco","Tlaxcala","Tlaxcala",29035,29
+45,"Tlaxcala-Apizaco","Tlaxcala","Tlaxcala",29036,29
+45,"Tlaxcala-Apizaco","Tlaxcala","Tlaxcala",29038,29
+45,"Tlaxcala-Apizaco","Tlaxcala","Tlaxcala",29039,29
+45,"Tlaxcala-Apizaco","Tlaxcala","Tlaxcala",29043,29
+45,"Tlaxcala-Apizaco","Tlaxcala","Tlaxcala",29048,29
+45,"Tlaxcala-Apizaco","Tlaxcala","Tlaxcala",29049,29
+45,"Tlaxcala-Apizaco","Tlaxcala","Tlaxcala",29050,29
+45,"Tlaxcala-Apizaco","Tlaxcala","Tlaxcala",29060,29
+46,"Veracruz","Veracruz","Veracruz",30011,30
+46,"Veracruz","Veracruz","Veracruz",30028,30
+46,"Veracruz","Veracruz","Veracruz",30090,30
+46,"Veracruz","Veracruz","Veracruz",30105,30
+46,"Veracruz","Veracruz","Veracruz",30193,30
+47,"Xalapa","Xalapa","Veracruz",30026,30
+47,"Xalapa","Xalapa","Veracruz",30038,30
+47,"Xalapa","Xalapa","Veracruz",30065,30
+47,"Xalapa","Xalapa","Veracruz",30087,30
+47,"Xalapa","Xalapa","Veracruz",30093,30
+47,"Xalapa","Xalapa","Veracruz",30136,30
+47,"Xalapa","Xalapa","Veracruz",30182,30
+48,"Poza Rica","Poza Rica","Veracruz",30033,30
+48,"Poza Rica","Poza Rica","Veracruz",30040,30
+48,"Poza Rica","Poza Rica","Veracruz",30124,30
+48,"Poza Rica","Poza Rica","Veracruz",30131,30
+48,"Poza Rica","Poza Rica","Veracruz",30175,30
+49,"Orizaba","Orizaba","Veracruz",30022,30
+49,"Orizaba","Orizaba","Veracruz",30030,30
+49,"Orizaba","Orizaba","Veracruz",30074,30
+49,"Orizaba","Orizaba","Veracruz",30081,30
+49,"Orizaba","Orizaba","Veracruz",30085,30
+49,"Orizaba","Orizaba","Veracruz",30099,30
+49,"Orizaba","Orizaba","Veracruz",30101,30
+49,"Orizaba","Orizaba","Veracruz",30115,30
+49,"Orizaba","Orizaba","Veracruz",30118,30
+49,"Orizaba","Orizaba","Veracruz",30135,30
+49,"Orizaba","Orizaba","Veracruz",30138,30
+49,"Orizaba","Orizaba","Veracruz",30185,30
+50,"Minatitlán","Minatitlán","Veracruz",30048,30
+50,"Minatitlán","Minatitlán","Veracruz",30059,30
+50,"Minatitlán","Minatitlán","Veracruz",30089,30
+50,"Minatitlán","Minatitlán","Veracruz",30108,30
+50,"Minatitlán","Minatitlán","Veracruz",30120,30
+50,"Minatitlán","Minatitlán","Veracruz",30199,30
+51,"Coatzacoalcos","Coatzacoalcos","Veracruz",30039,30
+51,"Coatzacoalcos","Coatzacoalcos","Veracruz",30082,30
+51,"Coatzacoalcos","Coatzacoalcos","Veracruz",30206,30
+52,"Córdoba","Córdoba","Veracruz",30014,30
+52,"Córdoba","Córdoba","Veracruz",30044,30
+52,"Córdoba","Córdoba","Veracruz",30068,30
+52,"Córdoba","Córdoba","Veracruz",30196,30
+53,"Mérida","Mérida","Yucatán",31013,31
+53,"Mérida","Mérida","Yucatán",31041,31
+53,"Mérida","Mérida","Yucatán",31050,31
+53,"Mérida","Mérida","Yucatán",31100,31
+53,"Mérida","Mérida","Yucatán",31101,31
+54,"Zacatecas-Guadalupe","Zacatecas","Zacatecas",32017,32
+54,"Zacatecas-Guadalupe","Zacatecas","Zacatecas",32032,32
+54,"Zacatecas-Guadalupe","Zacatecas","Zacatecas",32056,32
+55,"Ensenada","Ensenada","Baja California",2001,2
+56,"La Paz","La Paz","Baja California Sur",3003,3
+57,"Los Cabos","Los Cabos","Baja California Sur",3008,3
+58,"Campeche","Campeche","Campeche",4002,4
+59,"Ciudad del Carmen","Cd. del Carmen","Campeche",4003,4
+60,"Manzanillo","Manzanillo","Colima",6007,6
+61,"Tapachula","Tapachula","Chiapas",7089,7
+62,"Durango","Durango","Durango",10005,10
+63,"Celaya","Celaya","Guanajuato",11007,11
+63,"Celaya","Celaya","Guanajuato",11009,11
+63,"Celaya","Celaya","Guanajuato",11044,11
+64,"Guanajuato","Guanajuato","Guanajuato",11015,11
+65,"Irapuato","Irapuato","Guanajuato",11017,11
+66,"Salamanca","Salamanca","Guanajuato",11027,11
+67,"Uruapan","Uruapan","Michoacán",16102,16
+68,"San Juan del Río","San Juan del Río","Querétaro",22016,22
+69,"Los Mochis","Los Mochis","Sinaloa",25001,25
+70,"Culiacán","Culiacán","Sinaloa",25006,25
+71,"Mazatlán","Mazatlán","Sinaloa",25012,25
+72,"Ciudad Obregón","Cd. Obregón","Sonora",26018,26
+73,"Hermosillo","Hermosillo","Sonora",26030,26
+74,"Cárdenas","Cárdenas","Tabasco",27002,27
+75,"Ciudad Victoria","Cd. Victoria","Tamaulipas",28041,28
+76,"Chetumal","Chetumal","Quintana Roo",23004,23
+77,"Chilpancingo","Chilpancingo","Guerrero",12029,12
+78,"Moroleón-Uriangato","Moroleón","Guanajuato",11021,11
+78,"Moroleón-Uriangato","Moroleón","Guanajuato",11041,11

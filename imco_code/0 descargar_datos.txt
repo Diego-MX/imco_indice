@@ -1,0 +1,25 @@
+Diego Villamil, OPI
+CDMX, 6 de enero de 2017
+Feliz día de reyes
+
+
+Descargamos datos de las siguientes páginas. 
+
+CNBV:  http://portafolioinfo.cnbv.gob.mx/PUBLICACIONES/IO/Paginas/bm.aspx
+INEGI: 
+NOAA:
+BIE:
+
+
+
+Los datos de la NOAA se procesan aparte
+
+1. Extraer a carpeta
+2. Recortar el ráster en el territorio de la RepMex
+3. Aplicar raster-calculator:  viirs_175 = viirs * (viirs <= 175)
+4. Guardar mapa de INEGI con proyección de ráster
+5. Aplicar zonal-statistics:  viirs_175 suma por municipio
+
+
+
+
